@@ -1,2 +1,3 @@
-# CS230
-Introduction to Data Science
+This course introduces the fundamentals of extracting knowledge from data, focusing on techniques in data visualization, data wrangling, exploratory data analysis, machine learning, and handling big data. It incorporates aspects of statistics and utilizes Python software packages, including the tidyverse, to facilitate analysis. 
+Learned to explore data through graphical methods, clean and wrangle data, create basic machine learning models, and demonstrate proficiency in fundamental data visualization techniques.
+Developed skills to effectively communicate data exploration results through well-written and professionally formatted documents.
